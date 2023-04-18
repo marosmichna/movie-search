@@ -1,0 +1,18 @@
+header {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #cacaca;
+}
+
+.nav-link {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #A6A6A6;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
